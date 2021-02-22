@@ -1,45 +1,46 @@
 /** @format */
+
 body {
-  margin: 0;
+    margin: 0;
 }
 
 .type2 {
-  background: pink;
-  padding: 5rem;
-  margin-left: 5rem;
+    background: pink;
+    padding: 5rem;
+    margin-left: 5rem;
 }
 
 .type1 {
-  background: cadetblue;
-  padding: 2rem;
-  margin: 3rem;
-  border: 10px solid black;
+    background: cadetblue;
+    padding: 2rem;
+    margin: 3rem;
+    border: 10px solid black;
 }
 
 main {
-  background-color: #ddd;
+    background-color: #ddd;
 }
 
 .navBar {
-  list-style-type: none;
+    list-style-type: none;
 }
 
 li {
-  font-size: 1rem;
+    font-size: 1rem;
 }
 
 .fig {
-  width: 300px;
-  height: 200px;
+    width: 300px;
+    height: 200px;
 }
 
 table {
-  border: 1px solid black;
-  margin: 50px;
+    border: 1px solid black;
+    margin: 30px;
 }
 
 td,
 th {
-  margin: 1px;
-  border: 1px solid black;
+    margin: 10px;
+    border: 10px solid black;
 }
